@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is **Firzha Ardhia Ramadhan**.
+
+I'm a **Computer Science Student** at [Binus University](https://binus.ac.id/).
+
+
 <!--
 **zhaardhia/zhaardhia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
