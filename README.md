@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm **Firzha Ardhia Ramadhan**.
 
-My name is **Firzha Ardhia Ramadhan**.
-
-I'm a **Computer Science Student** at [Binus University](https://binus.ac.id/).
+I'm an Undergraduate **Computer Science Student** at [Binus University](https://binus.ac.id/).
 
 
 <!--
